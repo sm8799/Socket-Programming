@@ -1,0 +1,20 @@
+  Processes are more important than the end result, thus make sure that if this steps does not support in your computer
+  at glance, give them some time to complete or initiate, after all journey makes you happy
+
+
+  STEPS TO CONVERT FILES INTO .TORRENT(Do convert your owned content and share not anyone else's):
+  1. We use in built software in ubuntu 18.04 transmission bit-torrent client.
+  2.file(left upmost corner) -> new -> select files -> trackers list(take from newtrackon.com copy and paste)
+  -> create
+  
+  STEPS TO UPLOAD AND DOWNLOAD CONTENTS:
+  3.It will show "created!". Instantaneously click add -> start when added(left bottom corner)-> open.
+  4.When transmission starts uploading copy magnet link by right clicking(before that select the process) on the process.
+  5.Now send the link to your friend. Yes link will be big but don't panic.
+  6.Again ask your friend to open the same link in transmission.
+  7.Wait for some time, process uploading from your pc and downloading on friend's pc starts simultaneously,
+  because there is only one uploader, one seeder.
+
+
+  This tutorial is just to help community and so don't consider it any illegal action. It is basic example of how 
+  P2P Protocol works.
