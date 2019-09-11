@@ -22,4 +22,14 @@ while True:
 	connectionsocket, addr = serversocket.accept()
 	start_new_thread(clientfun, (connectionsocket, addr))
 serversocket.close()
+'''import os
+element = '/home/student'
+dir_list = os.listdir(element)
+#print(os.listdir(element))
+for i in dir_list:
+	if i.startswith('.'):
+		print(i)
+		dir_list.remove(i)
 
+#for i in dir_list:
+#	print(i)'''
