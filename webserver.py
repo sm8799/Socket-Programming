@@ -33,3 +33,26 @@ for i in dir_list:
 
 #for i in dir_list:
 #	print(i)'''
+'''<!DOCTYPE html>
+<html>
+<body>
+>An Unordered HTML List</h2>
+
+<u<l
+<h2i><a href = "https://www.w3schools.com/html/">Coffee<a></li>
+  l>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
+<h2>An Ordered HTML List</h2>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
+
+</body>
+</html>
+'''
