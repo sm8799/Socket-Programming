@@ -33,7 +33,8 @@ for i in dir_list:
 
 #for i in dir_list:
 #	print(i)'''
-'''<!DOCTYPE html>
+'''
+<!DOCTYPE html>
 <html>
 <body>
 >An Unordered HTML List</h2>
